@@ -1,0 +1,9 @@
+NetScanX Scan Report
+Target,localhost
+Port Range,1-600
+
+PORT,SERVICE,STATUS
+22,SSH,OPEN
+80,HTTP,OPEN
+443,HTTPS,OPEN
+587,SMTP,OPEN
